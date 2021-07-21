@@ -1,28 +1,33 @@
-# Jai Prakash Siyyadri
+## Jai Prakash Siyyadri
 jpsiyyadri@gmail.com | +91 810 643 8243 |  www.linkedin.com/in/jpsiyyadri
 
-Technologies:
-  Python
-  JavaScript
-  SQL
-  Pandas
-  AWS EC2
-  HTML,CSS,jQuery,BootStrap
-  Node.js
+### Technologies:
+  - Python
+  - JavaScript
+  - SQL
+  - Pandas
+  - AWS EC2
+  - HTML,CSS,jQuery,BootStrap
+  - Node.js
 
-Hard Skills[]
+### Hard Skills[]
 
-Soft Skills[]
+### Soft Skills[]
 
-Achievements[X Y Z resume formula]
-  Accomplished [x], measured by [y], by doing [z]
+### Achievements[X Y Z resume formula]
+  - Accomplished [x], measured by [y], by doing [z]
   
-Work Experience:
-  Trainee Data Science Engineer | Jun 2018 to Jun 2019
-    
-  Associate Data Science Engineer | Jun 2019 to Jun 2020
-  Data Science Engineer | Jun 2020 to Jun 2021
-  Senior Data Science Engineer | Jun 2021 to till date
-  
+### Work Experience:
+  - Trainee Data Science Engineer | Jun 2018 to Jun 2019
+  - Associate Data Science Engineer | Jun 2019 to Jun 2020
+  - Data Science Engineer | Jun 2020 to Jun 2021
+  - Senior Data Science Engineer | Jun 2021 to till date
   
   
+  
+
+
+
+### Profile Picture Enhancements:
+  - remove.bg
+  - canva
