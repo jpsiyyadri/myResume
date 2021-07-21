@@ -14,8 +14,7 @@ jpsiyyadri@gmail.com | +91 810 643 8243 |  www.linkedin.com/in/jpsiyyadri
 
 ### Soft Skills[]
 
-### Achievements[X Y Z resume formula]
-  - Accomplished [x], measured by [y], by doing [z]
+
   
 ### Work Experience:
   - Trainee Data Science Engineer | Jun 2018 to Jun 2019
@@ -26,8 +25,12 @@ jpsiyyadri@gmail.com | +91 810 643 8243 |  www.linkedin.com/in/jpsiyyadri
   
   
 
-
-
-### Profile Picture Enhancements:
+### Techniques & Methods:
+##### Keywords:
+  - Copy job description from and paste it in https://monkeylearn.com/word-cloud/
+  - Highlight those words in resume
+##### Achievements[X Y Z resume formula]
+  - Accomplished [x], measured by [y], by doing [z]
+##### Profile Picture Enhancements:
   - remove.bg
   - canva
